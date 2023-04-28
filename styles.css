@@ -1,3 +1,111 @@
 *{
     font-family: 'Roboto';
+    /*border: solid 2px red;*/
+    margin: 2px;
+}
+
+
+header{
+    border: 2px solid green;
+    display: flex;
+}
+
+.logo{
+
+}
+
+.header-links ul{
+
+}
+
+.header-links a{
+    
+}
+
+
+.section-1-container{
+    border: 2px solid green;
+    display: flex;
+}
+
+.section-1-title{
+
+}
+
+.section-1-subtext{
+
+}
+
+.Sign-up-button-1{
+
+}
+
+.image-holder{
+
+}
+
+.section-2-container{
+    border: 2px solid green;
+    display: flex;
+    flex-direction: column;
+}
+
+.section-2-title{
+
+}
+
+.row-of-boxes-with-text{
+    border: 2px solid green;
+    display: flex;
+}
+
+.box-and-text{
+
+}
+
+.blue-box{
+    height: 200px;
+    width: 200px;
+    border: 2px solid lightblue;
+
+}
+
+.subtext-under-box{
+
+}
+
+.section-3-container{
+    border: 2px solid green;
+    display: flex;
+    
+}
+
+.quote-text{
+
+}
+
+.quote-attribution{
+
+}
+
+.section-4-container{
+    border: 2px solid green;
+    display: flex;
+}
+
+.section4-header{
+
+}
+
+.section-4-subtext{
+
+}
+
+.Sign-up-button-2{
+    
+}
+
+.footer{
+    border: 2px solid green;
+    display: flex;
 }
