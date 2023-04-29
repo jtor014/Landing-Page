@@ -10,7 +10,7 @@ body{
     
 
 header{
-    
+
     display: flex;
     background-color: #1F2637;
     align-items: center;
@@ -28,6 +28,7 @@ header{
   font-size: 24px;
   color: #F9FAF8;
   font-weight: 700;
+  
 }
 
 header ul{
@@ -154,7 +155,7 @@ header ul{
     flex-direction: column;
     background-color: #E5E7EB;
     margin: 0;
-    padding: 80px 200px;
+    padding: 80px 300px;
     
 }
 
