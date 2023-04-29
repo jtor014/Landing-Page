@@ -1,12 +1,7 @@
-*{
-    font-family: 'Roboto';
-    /*border: solid 2px red;*/
-}
-
 body{
     margin: 0;
+    
 }
-
 
 .body{
     display: flex;
