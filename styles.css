@@ -68,7 +68,7 @@ header ul{
 .section-1-title{
     color: #F9FAF8;
     font-size: 48px;
-    font-weight: 1000;
+    font-weight: 900;
     margin-bottom: 25px;
     /*need to make extra bold - new font?*/
 
@@ -163,8 +163,6 @@ header ul{
     font-size: 36px;
     font-style: italic;
     font-weight: 100;
-    /*find right font*/
-    
     
 }
 
@@ -184,7 +182,7 @@ header ul{
     display: flex;
     padding: 0px;
     justify-content: space-around;
-    padding: 80px 200px;
+    padding: 50px 200px;
     border-radius: 10px;
     gap: 80px;
     align-items: center;
@@ -192,14 +190,14 @@ header ul{
 
 .section-4-header{
     font-size: 24px;
-    color: #E5E7EB;
+    color: #F9FAF8;
     font-weight: bold;
 
 }
 
 .section-4-subtext{
     font-size: 18px;
-    color: #E5E7EB;
+    color: #F9FAF8;
     
 
 
