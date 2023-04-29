@@ -18,7 +18,7 @@ header{
     flex-wrap: 1;
     padding-top: 20px;
     padding-bottom: 60px;
-    padding-left: 100px;
+    padding-left: 200px;
     padding-right: 200px;
     flex: 1;
 
@@ -56,7 +56,8 @@ header ul{
     gap: 300px;
     padding: 40px;
     padding-right: 200px;
-    padding-left: 100px;
+    padding-left: 200px;
+    padding-bottom: 140px;
 
 }
 
@@ -99,6 +100,7 @@ header ul{
  text-align: center;
  padding: 100px;
  flex: 1;
+
 }
 
 .section-2-container{
@@ -113,6 +115,8 @@ header ul{
     padding: 16px;
     text-align: center;
     font-size: 36px;
+    margin-bottom: 30px;
+    font-weight: 900    ;
 }
 
 .row-of-boxes-with-text{
@@ -120,15 +124,15 @@ header ul{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 30px;
+    gap: 80px;
     padding: 16px 100px;
+    margin-bottom: 80px;
     /*need to make extra bold - new font?*/
 }
 
 .box-and-text{
     width: 200px;
     text-align: center;
-    flex: 1;
     justify-content: space-around;
     
 
@@ -155,7 +159,7 @@ header ul{
     flex-direction: column;
     background-color: #E5E7EB;
     margin: 0;
-    padding: 80px 300px;
+    padding: 80px 400px;
     
 }
 
@@ -174,7 +178,7 @@ header ul{
 
 .section-4-container{
     
-    padding: 200px 100px;
+    padding: 200px 200px;
     
 }
 .section-4-sub-container{
